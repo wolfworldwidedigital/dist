@@ -1,0 +1,1 @@
+import{A as o}from"./q-CLqKSCLQ.js";import{E as e,H as r,K as t}from"./q-DinGTKgG.js";const i=n=>e(o,{element:"fieldset",...n,children:e(r,null,3,"0F_46"),[t]:{element:t}},0,"0F_47");export{i as s_1w0HF108GZk};

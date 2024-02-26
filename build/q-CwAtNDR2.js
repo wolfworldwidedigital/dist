@@ -1,0 +1,1 @@
+import{P as i,M as n}from"./q-DinGTKgG.js";const d=t=>i("script",null,{dangerouslySetInnerHTML:n(r=>r.scriptStr,[t],"p0.scriptStr"),id:n(r=>r.id,[t],"p0.id")},null,3,"WO_0");export{d as s_hwThBdhA8rw};

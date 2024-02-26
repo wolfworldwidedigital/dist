@@ -1,0 +1,1 @@
+import{A as o}from"./q-CLqKSCLQ.js";import{E as e,H as l,K as t}from"./q-DinGTKgG.js";const s=n=>e(o,{element:"dialog",...n,children:e(l,null,3,"0F_94"),[t]:{element:t}},0,"0F_95");export{s as s_NWOYtxlSlsY};

@@ -1,0 +1,1 @@
+import{A as r}from"./q-CLqKSCLQ.js";import{E as e,H as o,K as t}from"./q-DinGTKgG.js";const a=n=>e(r,{element:"textarea",...n,children:e(o,null,3,"0F_28"),[t]:{element:t}},0,"0F_29");export{a as s_0lehlUAIwGM};

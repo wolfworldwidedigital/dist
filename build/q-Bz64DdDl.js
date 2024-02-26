@@ -1,0 +1,1 @@
+import{P as l}from"./q-DinGTKgG.js";const e=()=>l("section",null,{class:"box-border flex relative flex-col grow shrink-0 self-stretch p-5 mx-auto w-full max-w-[1200px] min-h-[100px]"},null,3,"IT_0");export{e as s_ZuqgfDuY3DU};

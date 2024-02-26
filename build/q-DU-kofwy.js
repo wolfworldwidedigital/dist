@@ -1,0 +1,1 @@
+import{P as r,M as o}from"./q-DinGTKgG.js";const l=n=>r("span",{style:{outline:"none"}},{class:"builder-text",dangerouslySetInnerHTML:o(e=>{var t;return(t=e.text)==null?void 0:t.toString()},[n],"p0.text?.toString()")},null,3,"yO_0");export{l as s_15p0cKUxgIE};

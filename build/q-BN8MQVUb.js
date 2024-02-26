@@ -1,0 +1,1 @@
+import{A as o}from"./q-CLqKSCLQ.js";import{E as t,H as r,K as e}from"./q-DinGTKgG.js";const s=n=>t(o,{element:"caption",...n,children:t(r,null,3,"0F_116"),[e]:{element:e}},0,"0F_117");export{s as s_UOrt03Ym44Y};

@@ -1,0 +1,1 @@
+import{A as o}from"./q-CLqKSCLQ.js";import{E as e,H as r,K as n}from"./q-DinGTKgG.js";const i=t=>e(o,{element:"svg",...t,children:e(r,null,3,"0F_30"),[n]:{element:n}},0,"0F_31");export{i as s_Vfnjf7M0tD4};

@@ -1,0 +1,1 @@
+import{B as n,w as s}from"./q-CneDTPZk.js";import{f as c,g as a,E as l,K as b,M as r}from"./q-DinGTKgG.js";const f=t=>{const e=c({store:t.repeatContext});return a(n,e.store),l(s,{get block(){return t.block},get context(){return e.store},[b]:{block:r(o=>o.block,[t],"p0.block"),context:r(o=>o.store,[e],"p0.store")}},3,"K5_0")};export{f as s_nRyVBtbGKc8};

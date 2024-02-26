@@ -1,0 +1,1 @@
+import{A as o}from"./q-CLqKSCLQ.js";import{E as e,H as r,K as m}from"./q-DinGTKgG.js";const i=n=>e(o,{element:"pre",...n,children:e(r,null,3,"0F_60"),[m]:{element:m}},0,"0F_61");export{i as s_oJ6m9sAwmx8};

@@ -1,0 +1,1 @@
+import{A as n}from"./q-CLqKSCLQ.js";import{E as e,H as r,K as o}from"./q-DinGTKgG.js";const s=t=>e(n,{element:"colgroup",...t,children:e(r,null,3,"0F_114"),[o]:{element:o}},0,"0F_115");export{s as s_xl6ydtCmGUQ};

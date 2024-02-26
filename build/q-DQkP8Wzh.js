@@ -1,0 +1,1 @@
+import{A as r}from"./q-CLqKSCLQ.js";import{E as e,H as t,K as n}from"./q-DinGTKgG.js";const i=o=>e(r,{element:"audio",...o,children:e(t,null,3,"0F_80"),[n]:{element:n}},0,"0F_81");export{i as s_5TarSMAmP0U};

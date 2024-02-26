@@ -1,0 +1,1 @@
+import{P as t}from"./q-DinGTKgG.js";const l="/build/q-DiOtsgzm.webp",e=()=>t("span",null,{class:"self-center ml-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white flex items-center"},[t("img",null,{alt:"AI-Assist Logo",class:"inline-block mr-1",height:96,loading:"lazy",src:l,width:96},null,3,null),"AI-Assist"],3,"tO_0");export{e as s_DnL6WFe0gF8};

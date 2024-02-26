@@ -1,0 +1,1 @@
+import{A as n}from"./q-CLqKSCLQ.js";import{E as e,H as m,K as r}from"./q-DinGTKgG.js";const s=t=>e(n,{element:"iframe",...t,children:e(m,null,3,"0F_96"),[r]:{element:r}},0,"0F_97");export{s as s_Mb7rtPHGLVk};
